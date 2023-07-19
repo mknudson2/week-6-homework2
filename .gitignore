@@ -1,0 +1,3 @@
+bc-venv/
+.env
+__pycache__/
